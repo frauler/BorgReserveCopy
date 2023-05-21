@@ -4,7 +4,7 @@
 while true
 do
 	# info to check, is backup is possible
-	ROUTER=`ip neigh | grep "04:5e:a4:52:ff:64"` # home router MAC address
+	ROUTER=`ip neigh | grep "xx.xx.xx.xx.xx.xx"` # home router MAC address
 	IS_CHARGE=`termux-battery-status | grep DISCHARGING`
 	TIME=`date "+%k"` # current time
 	CURRENT_DATE=`date "+%d-%m-%Y"` # current date
