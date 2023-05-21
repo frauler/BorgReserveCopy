@@ -1,6 +1,6 @@
 # BorgReserveCopy
 
-Utility to make a reserve copy of a directory on a server, using termux
+Utility to make a reserve copy of a directory on a server, using Termux and borg
 
 Requirments: 
 - Termux API
@@ -15,5 +15,6 @@ How to use:
 3. borg init -e none borg@SERVER:<backups directory name>
 4. Type in bash: ```chmod +x start_copy.sh reserve_copy.sh```
 5. Change valuables ```SERVER``` and ```PORT``` in file start_copy.sh
-6. Change directory to copy in file ```reserve_copy.sh```
-7. Start progrаm with ```./start_copy.sh```
+6. Change valuable ```ROUTER``` in file reserve_copy.sh
+7. Change directory in file ```reserve_copy.sh```
+8. Start progrаm with ```./start_copy.sh```
