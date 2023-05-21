@@ -16,4 +16,4 @@ How to use:
 4. Type in bash: ```chmod +x start_copy.sh reserve_copy.sh```
 5. Change valuables ```SERVER``` and ```PORT``` in file start_copy.sh
 6. Change directory to copy in file ```reserve_copy.sh```
-7. Start progrm with ```./start_copy.sh```
+7. Start progrаm with ```./start_copy.sh```
