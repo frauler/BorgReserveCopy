@@ -10,3 +10,4 @@ Requirments:
 
 How to use:
 1. 
+init
