@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 SERVER="3.72.12.141" # server ip
 PORT="57177" # server port
